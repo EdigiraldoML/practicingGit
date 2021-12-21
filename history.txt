@@ -1,3 +1,5 @@
 First line of this file.
-Secong line.
+Second line.
 Third line added.
+
+A new paragraph.
