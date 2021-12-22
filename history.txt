@@ -4,4 +4,6 @@ Third line added.
 
 A nw paragraph.
 
-This paragraph is just in branch cabecera
+This paragraph is just in branch cabecera.
+
+This line ia creating a conflict.
