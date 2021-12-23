@@ -14,3 +14,8 @@ line 2 done in master for experimenting rebase with branch experimento
 line 1 done in experimento for experimenting rebase with branch master
 
 line 2 done in experimento for experimenting rebase with branch master  
+
+git stash -> temporaly save non comitted info.
+git stash list -> lists stashed info.
+git stash pop -> un stack last saved info.
+git stash branch <new_branch_name> -> creates a new branch with the stashed info.
