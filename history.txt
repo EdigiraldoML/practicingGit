@@ -11,3 +11,6 @@ This line ia creating a conflict.
 line 1 done in master for experimenting rebase with branch experimento
 
 line 2 done in master for experimenting rebase with branch experimento
+line 1 done in experimento for experimenting rebase with branch master
+
+line 2 done in experimento for experimenting rebase with branch master  
