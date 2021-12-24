@@ -25,3 +25,5 @@ git clean --dry-run -> Shows a list of files that would remove.
 git clean -f -> remove the files that are shown by git clean --dry-run.
 
 git cherry-pick sha_of_some_past_commit_into_another_branch -> Adds this commit to the current branch.
+
+git commit --amend -> Amends the last commit. (Do it before the push to remote).
