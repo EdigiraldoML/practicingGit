@@ -19,3 +19,7 @@ git stash -> temporaly save non comitted info.
 git stash list -> lists stashed info.
 git stash pop -> un stack last saved info.
 git stash branch <new_branch_name> -> creates a new branch with the stashed info.
+
+
+git clean --dry-run -> Shows a list of files that would remove.
+git clean -f -> remove the files that are shown by git clean --dry-run.
