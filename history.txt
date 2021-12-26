@@ -31,3 +31,9 @@ git commit --amend -> Amends the last commit. (Do it before the push to remote).
 git reflog -> shows the full history of the project allowing to recover almost anything.
 
 git grep -n <some word> -> shows where the word <some word> appears in your github repository and in which lines. 
+
+git shortlog -> commits done by each member.
+
+git branch -r -> shows all remote branches.
+
+git branch -a -> shows all branches including local and remotes.
