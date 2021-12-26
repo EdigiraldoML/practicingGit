@@ -29,3 +29,5 @@ git cherry-pick sha_of_some_past_commit_into_another_branch -> Adds this commit 
 git commit --amend -> Amends the last commit. (Do it before the push to remote).
 
 git reflog -> shows the full history of the project allowing to recover almost anything.
+
+git grep -n <some word> -> shows where the word <some word> appears in your github repository and in which lines. 
